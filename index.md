@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Ronnie page
+Welcome to Ronnie page: Enjoy my contents
 ---
 
